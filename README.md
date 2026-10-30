@@ -2,7 +2,7 @@
 
 A small columnar SQL engine over factory and sales tables. SQL in, a plan, an index, a time.
 
-**Author:** Tanmay Vaswani
+**Live:** https://tanmayvasvani.github.io/scan-engine/ · **Author:** Tanmay Vaswani
 
 ## What it does
 
